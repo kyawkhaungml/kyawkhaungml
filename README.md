@@ -23,40 +23,50 @@
   </li>
 </ul>
 
-## </> Skills
+<h2 align="center">💻 Skills</h2>
+<hr>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&labelColor=2b2b2b)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white&labelColor=2b2b2b)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&labelColor=2b2b2b)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&labelColor=2b2b2b)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&labelColor=2b2b2b)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&labelColor=2b2b2b)
+<div align="center">
 
-### Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&labelColor=2b2b2b)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&labelColor=2b2b2b)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&labelColor=2b2b2b)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&labelColor=2b2b2b)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&labelColor=2b2b2b)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&labelColor=2b2b2b)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&labelColor=2b2b2b)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white&labelColor=2b2b2b)
+<!-- Languages -->
+<b>Languages</b><br>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&labelColor=2b2b2b">
+<br><br>
 
-### ML & Predictive Analytics
-![Prophet](https://img.shields.io/badge/Prophet-0B5FFF?logo=python&logoColor=white&labelColor=2b2b2b)
-![yfinance](https://img.shields.io/badge/yfinance-4B8BBE?logo=python&logoColor=white&labelColor=2b2b2b)
-![Time Series](https://img.shields.io/badge/Time%20Series-7B61FF?logo=apache-spark&logoColor=white&labelColor=2b2b2b)
+<!-- Data Analysis & Visualization -->
+<b>Data Analysis & Visualization</b><br>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white&labelColor=2b2b2b">
+<br><br>
 
-### Development Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=2b2b2b)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&labelColor=2b2b2b)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&labelColor=2b2b2b)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&labelColor=2b2b2b)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&labelColor=2b2b2b)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&labelColor=2b2b2b)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&labelColor=2b2b2b)
+<!-- ML & Predictive Analytics -->
+<b>ML & Predictive Analytics</b><br>
+<img src="https://img.shields.io/badge/Prophet-0B5FFF?logo=python&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/yfinance-4B8BBE?logo=python&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/Time%20Series-7B61FF?logo=apache-spark&logoColor=white&labelColor=2b2b2b">
+<br><br>
 
+<!-- Development Tools & Frameworks -->
+<b>Development Tools & Frameworks</b><br>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&labelColor=2b2b2b">
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&labelColor=2b2b2b">
+</div>
 <br>
 
 <div>
