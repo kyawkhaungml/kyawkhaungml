@@ -23,50 +23,52 @@
   </li>
 </ul>
 
-<h2>💻 Skills</h2>
-
-<div>
+## 💻 Skills
+<hr>
 
 <!-- Languages -->
-<b>Languages</b><br>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&labelColor=2b2b2b">
-<br><br>
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</p>
 
 <!-- Data Analysis & Visualization -->
-<b>Data Analysis & Visualization</b><br>
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white&labelColor=2b2b2b">
-<br><br>
+### Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+</p>
 
 <!-- ML & Predictive Analytics -->
-<b>ML & Predictive Analytics</b><br>
-<img src="https://img.shields.io/badge/Prophet-0B5FFF?logo=python&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/yfinance-4B8BBE?logo=python&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/Time%20Series-7B61FF?logo=apache-spark&logoColor=white&labelColor=2b2b2b">
-<br><br>
+### ML & Predictive Analytics
+<p>
+  <img src="https://img.shields.io/badge/Prophet-0B5FFF?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/yfinance-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Time%20Series-7B61FF?style=for-the-badge&logo=apache-spark&logoColor=white">
+</p>
 
 <!-- Development Tools & Frameworks -->
-<b>Development Tools & Frameworks</b><br>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&labelColor=2b2b2b">
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&labelColor=2b2b2b">
-</div>
-<br>
+### Development Tools & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</p>
 
 <div>
   <h2>Let's Connect!</h2>
