@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Solve+Problems+Together!;+I'm+Chijioke+Okorji!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2000&pause=700&width=435&lines=Let's+Solve+Problems+Together!;Data+Enthusiast;Analyst;Developer;Active+Learner" alt="Typing SVG" />
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
