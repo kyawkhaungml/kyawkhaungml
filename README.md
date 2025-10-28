@@ -73,33 +73,19 @@
 <hr>
 </div>
 
-<!-- Contact Blocks (LinkedIn + Email) -->
-<table style="border-collapse:collapse; font-family:'Lato', Helvetica, Arial, sans-serif;">
-  <tr>
-    <td style="background:#4a4a4a; color:#ffffff; padding:10px 16px; font-weight:700; letter-spacing:2px; text-transform:uppercase; border-top-left-radius:8px; border-bottom-left-radius:8px;">
-      LinkedIn
-    </td>
-    <td style="background:#2F74C0; color:#ffffff; padding:10px 16px; font-weight:800; border-top-right-radius:8px; border-bottom-right-radius:8px;">
-      <a href="https://www.linkedin.com/in/kyaw-khaung-myo-lwin/" target="_blank" style="color:#ffffff; text-decoration:none;">
-        Kyaw Khaung Myo Lwin
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div style="height:8px;"></div> <!-- spacer -->
-
-<table style="border-collapse:collapse; font-family:'Lato', Helvetica, Arial, sans-serif;">
-  <tr>
-    <td style="background:#4a4a4a; color:#ffffff; padding:10px 16px; font-weight:700; letter-spacing:2px; text-transform:uppercase; border-top-left-radius:8px; border-bottom-left-radius:8px;">
-      Email
-    </td>
-    <td style="background:#CF5A46; color:#ffffff; padding:10px 16px; font-weight:800; border-top-right-radius:8px; border-bottom-right-radius:8px;">
-      <a href="mailto:kl3631@columbia.edu" style="color:#ffffff; text-decoration:none;">
-        kl3631@columbia.edu
-      </a>
-    </td>
-  </tr>
-</table>
+<div>
+  <h2 style="font-family: 'Lato', sans-serif;">🤝 Let's Connect!</h2>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kyaw-khaung-myo-lwin/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-Kyaw%20Khaung%20Myo%20Lwin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b2b2b" alt="LinkedIn" />
+  </a>
+  <br>
+  
+  <!-- Email -->
+  <a href="mailto:kl3631@columbia.edu">
+    <img src="https://img.shields.io/badge/EMAIL-kl3631%40columbia.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2b2b2b" alt="Email" />
+  </a>
+</div>
 
 <hr>
