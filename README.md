@@ -77,14 +77,14 @@
   <h2>🤝 Let's Connect!</h2>
   <ul style="list-style: none; padding-left: 0;">
 
-    <!-- LinkedIn -->
+    
     <li style="margin-bottom: 8px;">
       <a href="https://www.linkedin.com/in/kyaw-khaung-myo-lwin/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-Kyaw%20Khaung%20Myo%20Lwin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
       </a>
     </li>
 
-    <!-- Email -->
+  
     <li>
       <a href="mailto:kl3631@columbia.edu" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Email-kl3631@columbia.edu-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Badge">
