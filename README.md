@@ -73,25 +73,33 @@
 <hr>
 </div>
 
-<div style="font-family: 'Lato', Helvetica, Arial, sans-serif;">
-  <h2>🤝 Let's Connect!</h2>
-  <ul style="list-style: none; padding-left: 0;">
-
-    
-    <li>
-      <a href="https://www.linkedin.com/in/kyaw-khaung-myo-lwin/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-Kyaw%20Khaung%20Myo%20Lwin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+<!-- Contact Blocks (LinkedIn + Email) -->
+<table style="border-collapse:collapse; font-family:'Lato', Helvetica, Arial, sans-serif;">
+  <tr>
+    <td style="background:#4a4a4a; color:#ffffff; padding:10px 16px; font-weight:700; letter-spacing:2px; text-transform:uppercase; border-top-left-radius:8px; border-bottom-left-radius:8px;">
+      LinkedIn
+    </td>
+    <td style="background:#2F74C0; color:#ffffff; padding:10px 16px; font-weight:800; border-top-right-radius:8px; border-bottom-right-radius:8px;">
+      <a href="https://www.linkedin.com/in/kyaw-khaung-myo-lwin/" target="_blank" style="color:#ffffff; text-decoration:none;">
+        Kyaw Khaung Myo Lwin
       </a>
-    </li>
+    </td>
+  </tr>
+</table>
 
-  
-    <li>
-      <a href="mailto:kl3631@columbia.edu" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Email-kl3631@columbia.edu-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Badge">
+<div style="height:8px;"></div> <!-- spacer -->
+
+<table style="border-collapse:collapse; font-family:'Lato', Helvetica, Arial, sans-serif;">
+  <tr>
+    <td style="background:#4a4a4a; color:#ffffff; padding:10px 16px; font-weight:700; letter-spacing:2px; text-transform:uppercase; border-top-left-radius:8px; border-bottom-left-radius:8px;">
+      Email
+    </td>
+    <td style="background:#CF5A46; color:#ffffff; padding:10px 16px; font-weight:800; border-top-right-radius:8px; border-bottom-right-radius:8px;">
+      <a href="mailto:kl3631@columbia.edu" style="color:#ffffff; text-decoration:none;">
+        kl3631@columbia.edu
       </a>
-    </li>
-
-  </ul>
-</div>
+    </td>
+  </tr>
+</table>
 
 <hr>
