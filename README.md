@@ -16,7 +16,7 @@
   <li>🛠️ <strong>Data Analyst intern</strong> & builder · Stack: <strong>Python, SQL, Pandas, Power BI</strong> · Web: <strong>React, Node/Express, Django/Flask</strong></li>
   <li>🤖 Exploring <strong>AI/ML</strong> and predictive modeling; shipping projects that blend data, product, and UX</li>
   <li>📍 Based in <strong>NYC</strong> · open to <strong>remote & hybrid</strong> collaboration</li>
-  <li>🔗 <strong>Portfolio/Website:</strong> 
+  <li>🔗 <strong>Personal Website:</strong> 
     <a href="https://kyawkhaungml.github.io/portfolio/" target="_blank">Link</a> · 
     <strong>Resume:</strong> 
     <a href="https://drive.google.com/file/d/1-jUpeq3N5zjh5yu3FE1ST1w0ImhC5bKj/view?usp=sharing" target="_blank">View PDF</a> · 
