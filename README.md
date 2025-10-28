@@ -19,7 +19,7 @@
   <li>🔗 <strong>Portfolio/Website:</strong> 
     <a href="https://kyawkhaungml.github.io/portfolio/" target="_blank">kyawkhaungml.github.io/portfolio</a> · 
     <strong>Resume:</strong> 
-    <a href="https://github.com/kyawkhaungml/kyawkhaungml/blob/main/Lwin%2C%20Kyaw%20Khaung%20Myo-Resume-10_25.pdf" target="_blank">View PDF</a> · 
+    <a href="https://drive.google.com/file/d/1-jUpeq3N5zjh5yu3FE1ST1w0ImhC5bKj/view?usp=sharing" target="_blank">View PDF</a> · 
     <strong>Email:</strong> <a href="mailto:kl3631@columbia.edu">kl3631@columbia.edu</a>
   </li>
 </ul>
