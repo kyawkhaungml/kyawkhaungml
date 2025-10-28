@@ -17,7 +17,7 @@
   <li>🤖 Exploring <strong>AI/ML</strong> and predictive modeling; shipping projects that blend data, product, and UX</li>
   <li>📍 Based in <strong>NYC</strong> · open to <strong>remote & hybrid</strong> collaboration</li>
   <li>🔗 <strong>Portfolio/Website:</strong> 
-    <a href="https://kyawkhaungml.github.io/portfolio/" target="_blank">kyawkhaungml.github.io/portfolio</a> · 
+    <a href="https://kyawkhaungml.github.io/portfolio/" target="_blank">link</a> · 
     <strong>Resume:</strong> 
     <a href="https://drive.google.com/file/d/1-jUpeq3N5zjh5yu3FE1ST1w0ImhC5bKj/view?usp=sharing" target="_blank">View PDF</a> · 
     <strong>Email:</strong> <a href="mailto:kl3631@columbia.edu">kl3631@columbia.edu</a>
