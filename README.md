@@ -23,10 +23,10 @@
   </li>
 </ul>
 
-<h2 align="center">💻 Skills</h2>
+<h2>💻 Skills</h2>
 <hr>
 
-<div align="center">
+<div>
 
 <!-- Languages -->
 <b>Languages</b><br>
