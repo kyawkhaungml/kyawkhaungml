@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=34&duration=2000&pause=700&center=true&vCenter=true&width=850&lines=Exploring+Insights.+Scaling+Impact.+Scaling+Solutions.;Data+Enthusiast;Analyst;Developer;Active+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=34&duration=2000&pause=700&center=true&vCenter=true&width=850&lines=Exploring+Insights.+Scaling+Impact.+Scaling+Solutions.;Let's+Solve+Problems+Together!;Data+Enthusiast;Analyst;Developer;Active+Learner" alt="Typing SVG" />
 </h1>
 
 <img src="https://github.com/kyawkhaungml/kyawkhaungml/blob/main/luffycoding.png" alt="Banner of Luffy coding with Nami">
