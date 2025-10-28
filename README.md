@@ -9,11 +9,18 @@
 <img src="https://github.com/kyawkhaungml/kyawkhaungml/blob/main/luffycoding.png" alt="Banner of Luffy coding with Nami">
 
 
-## 💡 About me
+<h2>💡 About Me</h2>
 
-- 🎓 CS @ **Columbia University**
-- 🛠️ **Data Analyst intern** & builder · Stack: **Python, SQL, Pandas, Power BI** · Web: **React, Node/Express, Django/Flask**
-- 🤖 Exploring **AI/ML** and predictive modeling; shipping projects that blend data, product, and UX
-- 📍 Based in **NYC** · open to **remote & hybrid** collaboration
-- 🔗 **Portfolio/Website:** [https://kyawkhaungml.github.io/portfolio/] · **Resume:** [add link] · **Email:** kl3631@columbia.edu
+<ul style="font-family: Lato, sans-serif; font-size: 16px; line-height: 1.7;">
+  <li>🎓 CS @ <strong>Columbia University</strong></li>
+  <li>🛠️ <strong>Data Analyst intern</strong> & builder · Stack: <strong>Python, SQL, Pandas, Power BI</strong> · Web: <strong>React, Node/Express, Django/Flask</strong></li>
+  <li>🤖 Exploring <strong>AI/ML</strong> and predictive modeling; shipping projects that blend data, product, and UX</li>
+  <li>📍 Based in <strong>NYC</strong> · open to <strong>remote & hybrid</strong> collaboration</li>
+  <li>🔗 <strong>Portfolio/Website:</strong> 
+    <a href="https://kyawkhaungml.github.io/portfolio/" target="_blank">kyawkhaungml.github.io/portfolio</a> · 
+    <strong>Resume:</strong> 
+    <a href="https://github.com/kyawkhaungml/kyawkhaungml/blob/main/Lwin%2C%20Kyaw%20Khaung%20Myo-Resume-10_25.pdf" target="_blank">View PDF</a> · 
+    <strong>Email:</strong> <a href="mailto:kl3631@columbia.edu">kl3631@columbia.edu</a>
+  </li>
+</ul>
   
