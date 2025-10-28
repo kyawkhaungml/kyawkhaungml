@@ -74,7 +74,7 @@
 </div>
 
 <div>
-  <h2>🤝Let's Connect!</h2>
+  <h2>🤝 Let's Connect!</h2>
   <li>
   <a href="kl3631@columbia.edu">
     <img src="https://img.shields.io/badge/EMAIL-kl3631%40columbia.edu-blue" />
