@@ -9,4 +9,11 @@
 <img src="https://github.com/kyawkhaungml/kyawkhaungml/blob/main/luffycoding.png" alt="Banner of Luffy coding with Nami">
 
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+## 💡 About me
+
+- 🎓 CS @ **Columbia University**
+- 🛠️ **Data Analyst intern** & builder · Stack: **Python, SQL, Pandas, Power BI** · Web: **React, Node/Express, Django/Flask**
+- 🤖 Exploring **AI/ML** and predictive modeling; shipping projects that blend data, product, and UX
+- 🍜 + 🍣 Background in restaurants/food service—love turning ops data into actionable insights
+- 📍 Based in **NYC** · open to **remote & hybrid** collaboration
+- 🔗 **Portfolio/Website:** [add link] · **Resume:** [add link] · **Email:** your.name@columbia.edu
