@@ -28,12 +28,16 @@
 
 <div>
   <h2>Let's Connect!</h2>
+  <li>
   <a href="kl3631@columbia.edu">
     <img src="https://img.shields.io/badge/EMAIL-kl3631%40columbia.edu-blue" />
   </a>
+  </li>
+  <li>
   <a href="https://www.linkedin.com/in/kyaw-khaung-myo-lwin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kyaw%20Khaung%20Myo%20Lwin-blue" target="_blank" />
   </a>
+  </li>
 </div>
 
 <hr>
