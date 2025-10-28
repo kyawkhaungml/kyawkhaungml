@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Lato', Helvetica, Arial, sans-serif;">
+<h1 style="font-family: 'Lato', Helvetica, Arial, sans-serif;">
   Hi, I'm Kyle Lwin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
 </h1>
 
