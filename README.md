@@ -1,7 +1,5 @@
 
-<h1 align="center">
-  Hi, I'm Kyle Lwin
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+<h1 align="center">Hi, I'm Kyle Lwin<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
        alt="wave" width="40" height="40" />
 </h1>
 
