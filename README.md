@@ -22,7 +22,7 @@
     <a href="https://drive.google.com/file/d/1-jUpeq3N5zjh5yu3FE1ST1w0ImhC5bKj/view?usp=sharing" target="_blank">View PDF</a> · 
   </li>
 </ul>
-
+<hr>
 ## 💻 Skills
 
 <div>
