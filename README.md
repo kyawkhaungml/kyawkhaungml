@@ -29,10 +29,10 @@
 <div>
   <h2>Let's Connect!</h2>
   <a href="kl3631@columbia.edu">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/EMAIL-kl3631%40columbia.edu-blue" />
   </a>
   <a href="https://www.linkedin.com/in/kyaw-khaung-myo-lwin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kyaw%20Khaung%20Myo%20Lwin-blue" target="_blank" />
   </a>
 </div>
 
