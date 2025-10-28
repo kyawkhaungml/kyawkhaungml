@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Lato', Helvetica, Arial, sans-serif;">
+<h1>
   Hi, I'm Kyle Lwin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
 </h1>
 
@@ -74,7 +74,7 @@
 </div>
 
 <div>
-  <h2 style="font-family: 'Lato', sans-serif;">🤝 Let's Connect!</h2>
+  <h2>🤝 Let's Connect!</h2>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kyaw-khaung-myo-lwin/" target="_blank">
