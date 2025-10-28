@@ -24,7 +24,6 @@
 </ul>
 
 <h2>💻 Skills</h2>
-<hr>
 
 <div>
 
