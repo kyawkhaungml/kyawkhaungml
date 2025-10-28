@@ -23,4 +23,17 @@
     <strong>Email:</strong> <a href="mailto:kl3631@columbia.edu">kl3631@columbia.edu</a>
   </li>
 </ul>
-  
+
+<br>
+
+<div>
+  <h2>Let's Connect!</h2>
+  <a href="kl3631@columbia.edu">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/kyaw-khaung-myo-lwin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
