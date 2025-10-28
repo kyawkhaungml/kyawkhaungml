@@ -76,14 +76,14 @@
 <div>
   <h2>🤝 Let's Connect!</h2>
   <li>
-  <a href="kl3631@columbia.edu">
-    <img src="https://img.shields.io/badge/EMAIL-kl3631%40columbia.edu-blue" />
-  </a>
+<a href="mailto:kl3631@columbia.edu" target="_blank">
+  <img src="https://img.shields.io/badge/Email-003366?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2b2b2b" alt="Email">
+</a>
   </li>
   <li>
-  <a href="https://www.linkedin.com/in/kyaw-khaung-myo-lwin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kyaw%20Khaung%20Myo%20Lwin-blue" target="_blank" />
-  </a>
+<a href="https://www.linkedin.com/in/kyawkhaungmyolwin/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b2b2b" alt="LinkedIn">
+</a>
   </li>
 </div>
 
