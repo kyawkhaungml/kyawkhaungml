@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Kyle Lwin 👋
 
 <div align="center"> 
   <p>Visitor count</p>
