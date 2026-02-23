@@ -17,9 +17,9 @@
   <li>🤖 Exploring <strong>AI/ML</strong> and predictive modeling; shipping projects that blend data, product, and UX</li>
   <li>📍 Based in <strong>NYC</strong> · open to <strong>remote & hybrid</strong> collaboration</li>
   <li>🔗 <strong>Personal Website:</strong> 
-    <a href="https://kyawkhaungml.github.io/portfolio/" target="_blank">Link</a> · 
+    <a href="https://kylelwin.com/" target="_blank">Link</a> · 
     <strong>Resume:</strong> 
-    <a href="https://drive.google.com/file/d/1-jUpeq3N5zjh5yu3FE1ST1w0ImhC5bKj/view?usp=sharing" target="_blank">View PDF</a> · 
+    <a href="https://docs.google.com/document/d/1NB9ECFiTj2I-dOeLCxZusEI-bXPLURsD/edit?usp=drive_link&ouid=108335760818382546454&rtpof=true&sd=true" target="_blank">View PDF</a> · 
   </li>
 </ul>
 <hr>
