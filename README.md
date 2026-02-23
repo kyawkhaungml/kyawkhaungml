@@ -19,7 +19,7 @@
   <li>🔗 <strong>Personal Website:</strong> 
     <a href="https://kylelwin.com/" target="_blank">Link</a> · 
     <strong>Resume:</strong> 
-    <a href="https://docs.google.com/document/d/1NB9ECFiTj2I-dOeLCxZusEI-bXPLURsD/edit?usp=drive_link&ouid=108335760818382546454&rtpof=true&sd=true" target="_blank">View PDF</a> · 
+    <a href="https://docs.google.com/document/d/1NB9ECFiTj2I-dOeLCxZusEI-bXPLURsD/edit?usp=sharing&ouid=108335760818382546454&rtpof=true&sd=true" target="_blank">View PDF</a> · 
   </li>
 </ul>
 <hr>
