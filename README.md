@@ -13,7 +13,7 @@
 
 <ul style="font-family: Lato, sans-serif; font-size: 16px; line-height: 1.7;">
   <li>🎓 CS @ <strong>Columbia University</strong></li>
-  <li>🛠️ <strong>Data Analyst intern</strong> & builder · Stack: <strong>Python, SQL, Pandas, Power BI</strong> · Web: <strong>React, Node/Express, Django/Flask</strong></li>
+  <li>🛠️ <strong>Financial Data Analyst Intern</strong> & Software Engineer · Stack: <strong>Claude Code, Python, SQL, Typescript, Javascript, Java</strong> · Web: <strong>React, Node/Express, Django/Flask, Tailwind, PostgreSQL </strong></li>
   <li>🤖 Exploring <strong>AI/ML</strong> and predictive modeling; shipping projects that blend data, product, and UX</li>
   <li>📍 Based in <strong>NYC</strong> · open to <strong>remote & hybrid</strong> collaboration</li>
   <li>🔗 <strong>Personal Website:</strong> 
