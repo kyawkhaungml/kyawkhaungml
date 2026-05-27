@@ -13,7 +13,7 @@
 
 <ul style="font-family: Lato, sans-serif; font-size: 16px; line-height: 1.7;">
   <li>🎓 CS @ <strong>Columbia University</strong></li>
-  <li>🛠️ <strong>Software Engineer Intern</strong> · Stack: <strong>Claude Code, Python, SQL, Typescript, Javascript, Java</strong> · Web: <strong>React, Node/Express, Django/Flask, Tailwind, PostgreSQL </strong></li>
+  <li>🛠️ <strong>Software Engineer at NiBL</strong> · Stack: <strong>Claude Code, Python, SQL, Typescript, Javascript, Java</strong> · Web: <strong>React, Node/Express, Django/Flask, Tailwind, PostgreSQL </strong></li>
   <li>🤖 Exploring <strong>AI/ML</strong> and predictive modeling; shipping projects that blend data, product, and UX</li>
   <li>📱 Currently working on a startup targeting food service businesses and consumers
   <li>📍 Based in <strong>NYC</strong> · open to <strong>remote & hybrid</strong> collaboration</li>
