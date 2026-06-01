@@ -15,7 +15,7 @@
   <li>🎓 CS @ <strong>Columbia University</strong></li>
   <li>🛠️ <strong>Software Engineer at NiBL</strong> · Stack: <strong>Claude Code, Python, SQL, Typescript, Javascript, Java</strong> · Web: <strong>React, Node/Express, Django/Flask, Tailwind, PostgreSQL </strong></li>
   <li>🤖 Exploring <strong>AI/ML</strong> and predictive modeling; shipping projects that blend data, product, and UX</li>
-  <li>📱 Currently working on a startup targeting food service businesses and consumers
+  <li>📱 Building NiBL — a food delivery startup in NYC that eliminates high fees for consumers while helping CPG brands reach customers at the moment of consumption through curated drink pairings and real-time consumer intelligence.
   <li>📍 Based in <strong>NYC</strong> · open to <strong>remote & hybrid</strong> collaboration</li>
   <li>🔗 <strong>Personal Website:</strong> 
     <a href="https://kylelwin.com/" target="_blank">Link</a> · 
