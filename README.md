@@ -20,7 +20,7 @@
   <li>🔗 <strong>Personal Website:</strong> 
     <a href="https://kylelwin.com/" target="_blank">Link</a> · 
     <strong>Resume:</strong> 
-    <a href="https://drive.google.com/file/d/1PKCbIOIctWg19bBekMAAqL8ViVHVw-HN/view?usp=sharing" target="_blank">View PDF</a> · 
+    <a href="https://drive.google.com/file/d/1WwHjhp3nY56p_R2oXXV1xISdArda5zA6/view?usp=sharing" target="_blank">View PDF</a> · 
   </li>
 </ul>
 <hr>
